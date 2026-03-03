@@ -55,14 +55,15 @@ predatory-invitations-ept/
 │   ├── case_study_diago.md            # Caso Pascual D. Diago (obstetricia + Fibonacci)
 │   ├── stress_test_cases.md           # Objeciones teóricas al concepto PSO
 │   └── multidomain_extension.md       # PSO en otros dominios (escritores, cryptomonedas)
-├── paper/                             # Manuscrito académico
-│   ├── abstract.md                    # Abstract del paper
-│   ├── introduction.md                # Introducción
-│   ├── theoretical_framework.md       # Marco teórico (EPT + PSO)
-│   ├── methodology.md                 # Metodología cualitativa
-│   ├── results.md                     # Resultados del análisis
-│   ├── discussion.md                  # Discusión e implicaciones
-│   └── references.bib                 # Bibliografía
+├── paper/                             # ✅ Manuscrito académico COMPLETO (~35,000 palabras)
+│   ├── abstract.md                    # Abstract, significance statement, metadata
+│   ├── 01_introduction.md             # Puzzle empírico, framework EPT+PSO (15 KB)
+│   ├── 02_theoretical_framework.md    # EPT mechanisms, predictions (21 KB)
+│   ├── 03_methodology.md              # Corpus, PSO Index, validation (18 KB)
+│   ├── 04_results.md                  # 6 patrones, 100% accuracy (22 KB)
+│   ├── 05_discussion.md               # Interpretación EPT, policy (23 KB)
+│   ├── 06_conclusion.md               # Síntesis, extensiones, futuro (26 KB)
+│   └── references.bib                 # 60+ citations (Dawkins, Hayek, Beall)
 └── extensions/                        # Aplicaciones futuras
     ├── citation_rings.md              # PSO en redes de citación
     ├── conference_mills.md            # Conferencias predatorias
@@ -239,9 +240,11 @@ Cada invitación se califica en 5 dimensiones:
 
 ### Resultados del Corpus
 
-- **Legítimos:** 1/8 (12.5%)
-- **PSO confirmados:** 7/8 (87.5%)
-- **Score promedio PSO:** 5.0/5.0
+- **Legítimos:** 1/8 (12.5%) - JCLLT scored 2.0
+- **PSO confirmados:** 7/8 (87.5%) - All scored perfect 5.0
+- **Accuracy:** 100% (8/8 cases correctly classified)
+- **Key finding:** Perfect convergence at 5.0 (no variation in PSO cases)
+- **Validation:** Diago case confirms content irrelevance prediction
 
 ---
 
