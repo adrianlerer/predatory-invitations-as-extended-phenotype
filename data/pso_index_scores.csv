@@ -1,0 +1,9 @@
+case_id,mismatch_score,mimicry_score,hooks_score,friction_score,automation_score,pso_total,classification
+1,0.0,1.0,1.0,0.0,0.0,2.0,LEGITIMATE
+2,1.0,1.0,1.0,1.0,1.0,5.0,PSO
+3,1.0,1.0,1.0,1.0,1.0,5.0,PSO
+4,1.0,1.0,1.0,1.0,1.0,5.0,PSO
+5,1.0,1.0,1.0,1.0,1.0,5.0,PSO
+6,1.0,1.0,1.0,1.0,1.0,5.0,PSO
+7,1.0,1.0,1.0,1.0,1.0,5.0,PSO
+8,1.0,1.0,1.0,1.0,1.0,5.0,PSO

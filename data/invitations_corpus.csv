@@ -1,0 +1,9 @@
+case_id,journal_name,publisher,sender_name,sender_email,discipline_claimed,discipline_actual,issn_claimed,date_received,pso_score
+1,Journal of Computational Law and Legal Technology,Bon View Publishing,Yuna Peng,yuna.peng@bonviewpress.org,Computational Law,Computational Law,NA,2025-10-15,0
+2,International Journal of Financial and Economic Studies,Academix Publishers,Matt Henry,editor@academixpublisher.com,Economics,Law,NA,2025-10-25,5
+3,Current Research in Statistics & Mathematics,Explore Science Network,Editor Team,editor.hazell@gmail.com,Statistics,Law,2994-9459,2025-10-25,5
+4,Journal of Journalism and Media Management,OASK Publishers,Editorial Team,journalism@oaskpublishers.org,Journalism,Law,NA,2025-11-06,5
+5,Journal of Humanities and Educational Content Research,JHECR Publishers,Editorial Office,editorial@jhecr.com,Humanities,Law,NA,2025-11-08,5
+6,Journal of Economic Development & Global Markets,Glint Open Access,Claire Bennett,clairebennett@glintopenaccess.com,Economics,Law,3069-5813,2025-11-25,5
+7,Artificial Intelligence Virtual Reality and Human-Centered Computing,Academic Vision,Jenny Young,jenny.young@academicvision.org,Technology,Legal AI,3069-2318,2025-11-30,5
+8,Journal of Geosciences Earth and Planetary Systems,Premier Science Network,Editorial Assistant,editorial@premiersciencenetwork.info,Geosciences,Law,3069-XXXX,2025-12-05,5
