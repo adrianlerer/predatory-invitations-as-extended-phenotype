@@ -48,6 +48,15 @@ predatory-invitations-ept/
 │   ├── email_06_economics_glint.md    # "Follow-up" fantasma
 │   ├── email_07_ai_academicvision.md  # Revista "catch-all"
 │   └── email_08_geosciences_premier.md # Desalineación disciplinaria extrema
+├── paper/                             # Manuscrito académico completo
+│   ├── abstract.md                    # Resumen (250 palabras)
+│   ├── introduction.md                # Introducción (14 páginas)
+│   ├── theoretical_framework.md       # Marco teórico (32 páginas)
+│   ├── methodology.md                 # Metodología (23 páginas)
+│   ├── results.md                     # Resultados (31 páginas)
+│   ├── discussion.md                  # Discusión (55 páginas)
+│   ├── conclusion.md                  # Conclusión (23 páginas)
+│   └── references.bib                 # Referencias bibliográficas (80+ entradas)
 ├── analysis/                          # Scripts de análisis
 │   ├── pso_identification.py          # Identificador automático de PSO
 │   └── README.md                      # Documentación de análisis
@@ -382,12 +391,22 @@ Agradecimientos especiales a GPT-4 por la asistencia en estructuración y formal
 ## 📌 Estado del Proyecto
 
 - ✅ Corpus empírico completado (8 casos)
-- ✅ Marco teórico formalizado (PSO)
-- ✅ Stress test conceptual realizado
-- ✅ Extensiones a otros dominios iniciadas
-- ✅ Todos los casos de email documentados
-- ✅ Archivos suplementarios completos
-- ✅ Metadata para Zenodo configurado
+- ✅ Marco teórico formalizado (PSO + EPT)
+- ✅ Stress test conceptual realizado (10 objeciones respondidas)
+- ✅ Extensiones a otros dominios completadas (7 dominios)
+- ✅ Todos los casos de email documentados (1 legítimo + 7 PSO)
+- ✅ Archivos suplementarios completos (Diago case, stress tests, extensions)
+- ✅ Metadata para Zenodo configurado (.zenodo.json + CITATION.cff)
+- ✅ **PAPER ACADÉMICO COMPLETO** (40,578 palabras / 4,341 líneas / ~180 páginas)
+  - Introduction (14 páginas)
+  - Theoretical Framework (32 páginas)  
+  - Methodology (23 páginas)
+  - Results (31 páginas)
+  - Discussion (55 páginas)
+  - Conclusion (23 páginas)
+  - References (80+ entradas BibTeX)
+- ✅ Repositorio público en GitHub con todos los archivos
+- 🔄 Listo para depósito en Zenodo y envío a journal
 - 🔄 Paper académico en redacción
 - 🔄 Figuras y diagramas en desarrollo
 - ⏳ Peer review submission (pendiente)
