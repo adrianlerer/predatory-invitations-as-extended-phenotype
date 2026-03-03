@@ -1,7 +1,8 @@
 # Spontaneous Parasitic Order: Predatory Publishing as Extended Phenotype
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-[![DOI](https://img.shields.io/badge/DOI-pending-blue.svg)](https://ssrn.com/)
+[![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.XXXXXXX-blue.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
+[![GitHub](https://img.shields.io/github/stars/adrianlerer/predatory-invitations-as-extended-phenotype?style=social)](https://github.com/adrianlerer/predatory-invitations-as-extended-phenotype)
 
 ## Análisis empírico de invitaciones académicas predatorias mediante Extended Phenotype Theory y Parasitic Spontaneous Order
 
@@ -310,17 +311,36 @@ Cada invitación se califica en 5 dimensiones:
 
 ## 📝 Citar Este Trabajo
 
+### Para Zenodo (Preferido)
+
 ```bibtex
-@misc{lerer2026parasitic,
-  author = {Lerer, Ignacio Adr{\'i}an},
+@dataset{lerer2026parasitic,
+  author = {Lerer, Ignacio Adrián},
+  title = {Spontaneous Parasitic Order: Predatory Publishing as Extended Phenotype},
+  year = {2026},
+  publisher = {Zenodo},
+  version = {1.0.0},
+  doi = {10.5281/zenodo.XXXXXXX},
+  url = {https://doi.org/10.5281/zenodo.XXXXXXX}
+}
+```
+
+### Para GitHub Repository
+
+```bibtex
+@misc{lerer2026parasitic_github,
+  author = {Lerer, Ignacio Adrián},
   title = {Spontaneous Parasitic Order: Predatory Publishing as Extended Phenotype},
   year = {2026},
   publisher = {GitHub},
-  journal = {GitHub repository},
   howpublished = {\url{https://github.com/adrianlerer/predatory-invitations-as-extended-phenotype}},
   note = {Empirical analysis of predatory journal invitations through Extended Phenotype Theory and Parasitic Spontaneous Order framework}
 }
 ```
+
+### APA Style
+
+Lerer, I. A. (2026). *Spontaneous Parasitic Order: Predatory Publishing as Extended Phenotype* (Version 1.0.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.XXXXXXX
 
 ---
 
@@ -362,11 +382,25 @@ Agradecimientos especiales a GPT-4 por la asistencia en estructuración y formal
 - ✅ Marco teórico formalizado (PSO)
 - ✅ Stress test conceptual realizado
 - ✅ Extensiones a otros dominios iniciadas
+- ✅ Todos los casos de email documentados
+- ✅ Archivos suplementarios completos
+- ✅ Metadata para Zenodo configurado
 - 🔄 Paper académico en redacción
 - 🔄 Figuras y diagramas en desarrollo
 - ⏳ Peer review submission (pendiente)
 
 ---
 
-**Última actualización:** Marzo 2026  
-**Versión:** 1.0.0
+## 🗄️ Archivo y Preservación
+
+Este repositorio está archivado en:
+- **GitHub:** https://github.com/adrianlerer/predatory-invitations-as-extended-phenotype
+- **Zenodo:** https://doi.org/10.5281/zenodo.XXXXXXX (DOI permanente)
+
+**Nota:** Dado que SSRN no acepta más papers del autor, este trabajo se preserva exclusivamente en GitHub y Zenodo para garantizar acceso permanente y citabilidad.
+
+---
+
+**Última actualización:** Marzo 3, 2026  
+**Versión:** 1.0.0  
+**Estado:** Completo y listo para citación

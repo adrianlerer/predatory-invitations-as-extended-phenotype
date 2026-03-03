@@ -1,0 +1,71 @@
+cff-version: 1.2.0
+message: "If you use this dataset or framework, please cite it as below."
+type: dataset
+title: "Spontaneous Parasitic Order: Predatory Publishing as Extended Phenotype"
+abstract: "Empirical corpus and theoretical framework analyzing predatory academic journal invitations through Extended Phenotype Theory and Parasitic Spontaneous Order concept. Includes 8 documented cases, PSO Index methodology, and Python analysis tools."
+authors:
+  - family-names: Lerer
+    given-names: Ignacio Adrián
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+    affiliation: "Independent Researcher"
+    email: adrian@lerer.com.ar
+date-released: 2026-03-03
+version: "1.0.0"
+doi: 10.5281/zenodo.XXXXXXX
+repository-code: "https://github.com/adrianlerer/predatory-invitations-as-extended-phenotype"
+license: CC-BY-4.0
+keywords:
+  - predatory publishing
+  - extended phenotype theory
+  - spontaneous order
+  - institutional parasitism
+  - academic integrity
+  - evolutionary game theory
+  - parasitic spontaneous order
+  - PSO index
+  - peer review
+  - open science
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.XXXXXXX"
+    description: "Zenodo DOI"
+references:
+  - type: book
+    authors:
+      - family-names: Dawkins
+        given-names: Richard
+    title: "The Extended Phenotype: The Long Reach of the Gene"
+    year: 1982
+    publisher: "Oxford University Press"
+    isbn: "978-0192860088"
+  - type: book
+    authors:
+      - family-names: Hayek
+        given-names: F. A.
+    title: "Law, Legislation and Liberty, Volume 1: Rules and Order"
+    year: 1973
+    publisher: "University of Chicago Press"
+    isbn: "978-0226320861"
+  - type: article
+    authors:
+      - family-names: Beall
+        given-names: Jeffrey
+    title: "Predatory publishers are corrupting open access"
+    journal: "Nature"
+    year: 2012
+    volume: 489
+    issue: 7415
+    pages: "179"
+    doi: "10.1038/489179a"
+  - type: article
+    authors:
+      - family-names: Grudniewicz
+        given-names: Agnes
+      - family-names: et al
+    title: "Predatory journals: no definition, no defence"
+    journal: "Nature"
+    year: 2019
+    volume: 576
+    issue: 7786
+    pages: "210-212"
+    doi: "10.1038/d41586-019-03759-y"

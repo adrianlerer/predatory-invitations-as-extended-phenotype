@@ -1,0 +1,49 @@
+{
+  "title": "Spontaneous Parasitic Order: Predatory Publishing as Extended Phenotype",
+  "description": "<p><strong>Empirical corpus and theoretical framework for analyzing predatory academic journal invitations</strong></p><p>This repository contains:</p><ul><li>8 documented invitation cases (7 predatory, 1 legitimate control)</li><li>Parasitic Spontaneous Order (PSO) Index methodology</li><li>Python analysis tools for pattern identification</li><li>Extended Phenotype Theory application to institutional analysis</li><li>Complete documentation and case studies</li></ul><p><strong>Key Contribution:</strong> Reframes predatory publishing as evolutionarily stable institutional parasitism, not isolated fraud. Applies Richard Dawkins' Extended Phenotype Theory and F.A. Hayek's spontaneous order concepts to explain emergence, stability, and diversification of predatory journals.</p><p><strong>Empirical Findings:</strong> PSO Index (0-5 scale) achieves 100% classification accuracy across corpus. Six systematic patterns identified: disciplinary mismatch, mimetic legitimacy, emotional hooks, friction minimization, automation indicators, and financial extraction.</p><p><strong>Policy Implications:</strong> Shifts focus from reactive blacklisting to proactive incentive modification.</p>",
+  "creators": [
+    {
+      "name": "Lerer, Ignacio Adrián",
+      "affiliation": "Independent Researcher",
+      "orcid": "0000-0000-0000-0000"
+    }
+  ],
+  "access_right": "open",
+  "license": "CC-BY-4.0",
+  "upload_type": "dataset",
+  "keywords": [
+    "predatory publishing",
+    "extended phenotype theory",
+    "spontaneous order",
+    "institutional parasitism",
+    "academic integrity",
+    "evolutionary game theory",
+    "peer review",
+    "open science",
+    "PSO index",
+    "scientific misconduct"
+  ],
+  "communities": [
+    {
+      "identifier": "zenodo"
+    }
+  ],
+  "related_identifiers": [
+    {
+      "relation": "isSupplementTo",
+      "identifier": "https://github.com/adrianlerer/predatory-invitations-as-extended-phenotype",
+      "scheme": "url",
+      "resource_type": "software"
+    }
+  ],
+  "grants": [],
+  "references": [
+    "Dawkins, R. (1982). The Extended Phenotype: The Long Reach of the Gene. Oxford University Press.",
+    "Hayek, F. A. (1973). Law, Legislation and Liberty, Volume 1: Rules and Order. University of Chicago Press.",
+    "Beall, J. (2012). Predatory publishers are corrupting open access. Nature, 489(7415), 179.",
+    "Grudniewicz, A., et al. (2019). Predatory journals: no definition, no defence. Nature, 576(7786), 210-212."
+  ],
+  "contributors": [],
+  "language": "eng",
+  "version": "1.0.0"
+}
